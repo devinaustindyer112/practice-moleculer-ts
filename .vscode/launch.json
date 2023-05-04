@@ -16,6 +16,7 @@
 			],
 			"cwd": "${workspaceRoot}",
 			"args": [
+				"src/*.service.ts",
 				"src/**/*.service.ts"
 			]
 		},
