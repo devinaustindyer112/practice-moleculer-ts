@@ -1,8 +1,8 @@
-function sum(a: any, b: any) {
-    return a + b;
-}
-module.exports = sum;
+// write tests for handler functions
 
-test('adds 1 + 2 to equal 3', () => {
-    expect(sum(1, 2)).toBe(3);
+describe('greeter service', () => {
+
+
+
+
 });
