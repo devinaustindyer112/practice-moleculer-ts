@@ -5,6 +5,6 @@ module.exports = {
 	coverageDirectory: "./coverage",
 	rootDir: "./",
 	roots: [
-		"./src"
+		"./services"
 	]
 };
